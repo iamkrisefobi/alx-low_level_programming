@@ -1,2 +1,2 @@
 #!/bin/bash
-This Repository is for low level programming in c
+This repository is for c low level programing
